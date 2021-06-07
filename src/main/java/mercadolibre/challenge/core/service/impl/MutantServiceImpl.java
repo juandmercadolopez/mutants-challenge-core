@@ -24,8 +24,6 @@ public class MutantServiceImpl implements MutantService {
         checkVerticals(START_INDEX, START_INDEX);
         checkForwardDiagonals(START_INDEX, START_INDEX);
 
-        System.out.println(SEQUENCE_COUNTER);
-
         if(SEQUENCE_COUNTER > 1){
             return true;
         }
