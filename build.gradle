@@ -11,12 +11,3 @@ version '1.0-SNAPSHOT'
 repositories {
     mavenCentral()
 }
-
-/* Publish local repository
-publishing {
-    publications {
-        myPublicationName(MavenPublication) {
-            from components.java
-        }
-    }
-}*/
