@@ -8,8 +8,6 @@ mercadolibre/challenge/core/controller/Mutant.java
  mercadolibre.challenge.core.controller.Mutant
 mercadolibre/challenge/core/constant/UtilConstant.java
  mercadolibre.challenge.core.constant.UtilConstant
-mercadolibre/challenge/core/service/impl/MutantServiceImpl.java
- mercadolibre.challenge.core.service.impl.MutantServiceImpl
 mercadolibre/challenge/core/service/MutantService.java
  mercadolibre.challenge.core.service.MutantService
 mercadolibre/challenge/core/constant/ErrorConstant.java
