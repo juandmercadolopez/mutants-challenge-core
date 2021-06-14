@@ -1,0 +1,61 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "io.github.juandmercadolopez.mercadolibre.challenge.core",
+    "module": "mutants-challenge-mercadolibre-core",
+    "version": "1.0-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.8",
+      "buildId": "l5rbvqicpzgmxngzpvoz2itxk4"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "mutants-challenge-mercadolibre-core-1.0-SNAPSHOT.jar",
+          "url": "mutants-challenge-mercadolibre-core-1.0-SNAPSHOT.jar",
+          "size": 6137,
+          "sha512": "270fb4b63e6f1d33066c9393d99602d0d8436ba61b3e1e7769fa7ede58db99b1aa99b41048cf060d24e6c59a26e436562858a3899f262a25d8771df3bf9a76c5",
+          "sha256": "74255fbc97eaeedf2d5846aa038d0915dd190437220264e475ece84c9cf72da2",
+          "sha1": "98110eb0ed82d2465bc8c73fec41283341283b0f",
+          "md5": "a61265b48667a6b3f1f29ae6937fe70f"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "mutants-challenge-mercadolibre-core-1.0-SNAPSHOT.jar",
+          "url": "mutants-challenge-mercadolibre-core-1.0-SNAPSHOT.jar",
+          "size": 6137,
+          "sha512": "270fb4b63e6f1d33066c9393d99602d0d8436ba61b3e1e7769fa7ede58db99b1aa99b41048cf060d24e6c59a26e436562858a3899f262a25d8771df3bf9a76c5",
+          "sha256": "74255fbc97eaeedf2d5846aa038d0915dd190437220264e475ece84c9cf72da2",
+          "sha1": "98110eb0ed82d2465bc8c73fec41283341283b0f",
+          "md5": "a61265b48667a6b3f1f29ae6937fe70f"
+        }
+      ]
+    }
+  ]
+}

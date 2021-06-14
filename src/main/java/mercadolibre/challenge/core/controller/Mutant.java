@@ -5,8 +5,9 @@ import mercadolibre.challenge.core.service.MutantService;
 
 public class Mutant {
 
-  public boolean isMutant(String[] dna) throws DnaException {
+  public static boolean isMutant(String[] dna) throws DnaException {
 
     return MutantService.isMutant(dna);
+
   }
 }
