@@ -6,6 +6,5 @@ import java.io.IOException;
 
 public interface MutantService {
 
-    boolean isMutant(String [] dna) throws DnaException, IOException;
-
+  boolean isMutant(String[] dna) throws DnaException, IOException;
 }
