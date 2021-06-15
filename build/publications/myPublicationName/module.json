@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.8",
-      "buildId": "l5rbvqicpzgmxngzpvoz2itxk4"
+      "buildId": "wfbgt2hirvcxnieaia5bs3gq5a"
     }
   },
   "variants": [
@@ -29,10 +29,10 @@
           "name": "mutants-challenge-mercadolibre-core-1.0-SNAPSHOT.jar",
           "url": "mutants-challenge-mercadolibre-core-1.0-SNAPSHOT.jar",
           "size": 6137,
-          "sha512": "270fb4b63e6f1d33066c9393d99602d0d8436ba61b3e1e7769fa7ede58db99b1aa99b41048cf060d24e6c59a26e436562858a3899f262a25d8771df3bf9a76c5",
-          "sha256": "74255fbc97eaeedf2d5846aa038d0915dd190437220264e475ece84c9cf72da2",
-          "sha1": "98110eb0ed82d2465bc8c73fec41283341283b0f",
-          "md5": "a61265b48667a6b3f1f29ae6937fe70f"
+          "sha512": "418c92d6a88e238a1a9c97e651aef312b15460822c513f1a2a07ca65673292024c32614dde4c6612f8c451dd6f4c88141402bdd4defec490f414ec9e73d3bb60",
+          "sha256": "3217bf28f4cf0cdd52ce79bd780169660ccfcf713899116cb7cce61d962ebdc5",
+          "sha1": "90034335051fdd16297807353ef2d4c9057c6f24",
+          "md5": "a3574658da5fdb72db9e01b185d91d1b"
         }
       ]
     },
@@ -50,10 +50,10 @@
           "name": "mutants-challenge-mercadolibre-core-1.0-SNAPSHOT.jar",
           "url": "mutants-challenge-mercadolibre-core-1.0-SNAPSHOT.jar",
           "size": 6137,
-          "sha512": "270fb4b63e6f1d33066c9393d99602d0d8436ba61b3e1e7769fa7ede58db99b1aa99b41048cf060d24e6c59a26e436562858a3899f262a25d8771df3bf9a76c5",
-          "sha256": "74255fbc97eaeedf2d5846aa038d0915dd190437220264e475ece84c9cf72da2",
-          "sha1": "98110eb0ed82d2465bc8c73fec41283341283b0f",
-          "md5": "a61265b48667a6b3f1f29ae6937fe70f"
+          "sha512": "418c92d6a88e238a1a9c97e651aef312b15460822c513f1a2a07ca65673292024c32614dde4c6612f8c451dd6f4c88141402bdd4defec490f414ec9e73d3bb60",
+          "sha256": "3217bf28f4cf0cdd52ce79bd780169660ccfcf713899116cb7cce61d962ebdc5",
+          "sha1": "90034335051fdd16297807353ef2d4c9057c6f24",
+          "md5": "a3574658da5fdb72db9e01b185d91d1b"
         }
       ]
     }
